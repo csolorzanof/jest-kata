@@ -10,6 +10,9 @@ test('when user input is a number it should return same number', () => {
   expect(sum('2')).toBe(2);
 });
 //    3. Given the user input is two numbers when calculating the sum then it should return the sum of those numbers. (example "1,2" should equal 3)
+test('when input is two numbers it should return the sum', ()=>{
+    expect(sum('1,2')).toBe(3);
+})
 //    4. Given the user input is an unknown amount of numbers when calculating the sum then it should return the sum of all the numbers. (example "1,2,3" should equal 6)
 //    5. Given the user input is multiple numbers with new line and comma delimiters when calculating the sum then it should return the sum of all the numbers. (example "1\n2,3" should equal 6)
 //    6. Given the user input is multiple numbers with a custom single-character delimiter when calculating the sum then it should return the sum of all the numbers. (example “//;\n1;2” should return 3)
