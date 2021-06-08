@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2252c7ff-8330-4f2e-8fd0-92f4daffb681" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kWm710qwbV1P6NvyhZd88qTxd5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AA/ibm_pt_ui" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.All Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2252c7ff-8330-4f2e-8fd0-92f4daffb681" name="Default Changelist" comment="" />
+      <created>1605824551017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605824551017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\PowerShell\7\pwsh.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605825822522">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@-1920.0.1920.1040" timestamp="1605825822522" />
+    <state x="-1158" y="335" key="FileChooserDialogImpl" timestamp="1605905573722">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1158" y="335" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@-1920.0.1920.1040" timestamp="1605905573722" />
+    <state width="1879" height="282" key="GridCell.Tab.0.bottom" timestamp="1605852947184">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@-1920.0.1920.1040" timestamp="1605852947184" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@0.0.1920.1040" timestamp="1605829314995" />
+    <state width="1879" height="282" key="GridCell.Tab.0.center" timestamp="1605852947184">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@-1920.0.1920.1040" timestamp="1605852947184" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@0.0.1920.1040" timestamp="1605829314995" />
+    <state width="1879" height="282" key="GridCell.Tab.0.left" timestamp="1605852947184">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@-1920.0.1920.1040" timestamp="1605852947184" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@0.0.1920.1040" timestamp="1605829314995" />
+    <state width="1879" height="282" key="GridCell.Tab.0.right" timestamp="1605852947184">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@-1920.0.1920.1040" timestamp="1605852947184" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@0.0.1920.1040" timestamp="1605829314995" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1605825240409">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1707.920/-1920.0.1920.1040/-5760.0.1280.680@-1920.0.1920.1040" timestamp="1605825240409" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IntTest$All_Tests.info" NAME="All Tests Coverage Results" MODIFIED="1605825555027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
