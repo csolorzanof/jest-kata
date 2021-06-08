@@ -1,3 +1,5 @@
-export function sum(text){
-
+export function sum(text) {
+  if (text == '') {
+    return 0;
+  }
 }
