@@ -1,7 +1,10 @@
-import * as func from './index'
+import {sum} from './index'
 import {test} from "@jest/globals";
 
 //    1. Given the user input is empty when calculating the sum then it should return zero.
+test('when user input is empty', ()=>{
+    expect(sum("")).toBe(0);
+});
 //    2. Given the user input is one number when calculating the sum then it should return the same number. (example "3" should equal 3)
 //    3. Given the user input is two numbers when calculating the sum then it should return the sum of those numbers. (example "1,2" should equal 3)
 //    4. Given the user input is an unknown amount of numbers when calculating the sum then it should return the sum of all the numbers. (example "1,2,3" should equal 6)
