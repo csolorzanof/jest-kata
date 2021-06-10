@@ -5,9 +5,12 @@ export function sum(text) {
     if (text.indexOf(',') == -1) {
       return parseInt(text);
     }
-    let number1 = parseInt(text.split(',')[0]);
-    let number2 = parseInt(text.split(',')[1]);
+    let numbers = text.split(',').map(num=>parseInt(num));
+    
+    let sum = numbers.reduce((acum, val)=>{
+      return acum += parseInt(val);
+    });
 
-    return number1 + number2;
+    return sum;
   }
 }
